@@ -1,0 +1,6 @@
+:libraries:
+    pubmed:
+        :commands:
+            query:
+                :options:
+                    :email: "plandham@gmail.com" 
